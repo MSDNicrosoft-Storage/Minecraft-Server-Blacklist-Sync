@@ -1,6 +1,6 @@
 [
   {
-    "reason":"偷盗物品，详情咨询服务器qq群",
+    "reason":"偷盗物品",
     "expires":"forever",
     "created":"2021-02-15 20:12:00 +0800",
     "name":"qiu_feng",
@@ -22,14 +22,6 @@
     "name":"Ymy_live",
     "source":"§x§6§6§C§C§F§FDream_dye§r",
     "uuid":"913ca468-6451-4bb4-96b0-3b2386bea5ca"
-  },
-  {
-    "reason":"中考加油",
-    "expires":"forever",
-    "created":"2021-02-24 20:29:06 +0800",
-    "name":"_CY6TGH7I",
-    "source":"Console",
-    "uuid":"00000000-0000-0000-0009-01f49ae93a6c"
   },
   {
     "reason":"登录失败!您的帐号已被此服务器封禁!",
@@ -64,7 +56,7 @@
     "uuid":"05e91da2-140d-47de-b6f4-756ce636aafd"
   },
   {
-    "reason":"请仔细读无限开拓注意事项！解封请加群：594048732",
+    "reason":"请仔细阅读服规！",
     "expires":"forever",
     "created":"2020-10-06 16:04:37 +0800",
     "name":"NiFengFeiYang",
@@ -144,7 +136,7 @@
     "uuid":"ac34d7b3-3c25-41c5-af78-13c662735173"
   },
   {
-    "reason":"自己干啥自己心里清楚想解释加群594048732",
+    "reason":"自己干过啥自己心里清楚",
     "expires":"forever",
     "created":"2020-10-13 18:36:50 +0800",
     "name":"AndrewLee2112",
@@ -208,7 +200,7 @@
     "uuid":"e57e109b-09d8-4c6b-b6ac-5eb315c45307"
   },
   {
-    "reason":"破坏物品，解封请进群说明详情",
+    "reason":"破坏物品",
     "expires":"forever",
     "created":"2020-08-04 21:24:08 +0800",
     "name":"jonnymcdee9",
@@ -216,7 +208,7 @@
     "uuid":"4b2a46aa-47f7-418a-b4be-2f4f93f6798f"
   },
   {
-    "reason":"偷魔女的龙头，解封请进群咨询",
+    "reason":"登录失败!您的帐号已被此服务器封禁!",
     "expires":"forever",
     "created":"2020-08-11 01:20:35 +0800",
     "name":"Mrs_Mao_Z",
@@ -232,7 +224,7 @@
     "uuid":"c42b07b3-200d-4589-b9af-790928bd3473"
   },
   {
-    "reason":"详情请加群：594048732",
+    "reason":"登录失败!您的帐号已被此服务器封禁!",
     "expires":"forever",
     "created":"2020-10-10 01:52:50 +0800",
     "name":"LM5610",
@@ -248,7 +240,7 @@
     "uuid":"9c340818-b1aa-4a70-9441-7ee685cceeae"
   },
   {
-    "reason":"乱拿他人物品，解封详情请进群：594048732",
+    "reason":"乱拿他人物品",
     "expires":"forever",
     "created":"2021-05-12 13:34:19 +0800",
     "name":"DanMazzz",
