@@ -19,3 +19,4 @@
 ## Pull Request 注意事项
 - 新添加的请在原有的基础上按 Minecraft 格式添加
 - 请把 Reason 统一改成 `你已被此服务器封禁！`
+- 请把 Source 统一改成 `Console`
