@@ -10,7 +10,7 @@
 
 ## 我该如何贡献？
 
-- star这个仓库
+- Star 这个仓库
 
 - 你可以把你服内黑名单列表（banned-players.json 和 banned-ips.json）按照 Minecraft Json 格式提交提交（Pull request）到此仓库
 
