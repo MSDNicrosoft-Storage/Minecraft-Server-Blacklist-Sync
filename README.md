@@ -15,3 +15,5 @@
 - 你可以把你服内黑名单列表（banned-players.json 和 banned-ips.json）按照 Minecraft Json 格式提交提交（Pull request）到此仓库
 
 - 向其他腐竹推荐
+
+### 注意:Pull Request时请在原有的基础上按 Minecraft 格式添加
