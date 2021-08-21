@@ -1,4 +1,4 @@
-# Minecraft Server Blacklist Sync
+# Minecraft Server Blacklist Sync（等待重构）
 
 ## 这是什么？
 
